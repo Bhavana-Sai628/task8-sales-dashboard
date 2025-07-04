@@ -1,0 +1,4 @@
+1. West region had the highest total sales across all months.
+2. Sales peaked in December, showing strong seasonal performance.
+3. The Technology category had the highest revenue share.
+4. Central region maintained steady but lower sales compared to other regions.
